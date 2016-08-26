@@ -1,0 +1,12 @@
+[user]
+    name = Ayesha Omarali
+    email = ayesha.omarali@gmail.com
+[credential]
+    helper = osxkeychain
+[core]
+    excludesfile = /Users/vikram/.git-user-excludes
+    editor = vim
+[color]
+    ui = true
+[push]
+    default = matching
